@@ -1,4 +1,4 @@
-# Systematic Testing for Resource Leaks in Android Applications
+## Systematic Testing for Resource Leaks in Android Applications
 
 1.Android Java虚拟机的堆内存一般为16-64M，一般的操作系统的堆内存是好几百M。资源一般是 内存 bitmap 文件句柄 线程 binder，当软件耗费太多的这些资源的时候，就会造成系统缓慢，死机。
 
