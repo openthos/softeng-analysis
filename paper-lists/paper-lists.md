@@ -17,3 +17,5 @@
 [Testing for Poor Responsiveness in Android Applications](https://github.com/openthos/softeng-analysis/blob/master/paper-lists/yang-mobs13.pdf)
 
 [Systematic Testing for Resource Leaks in Android Applications](https://github.com/openthos/softeng-analysis/blob/master/paper-lists/Systematic%20Testing%20for%20Resource%20Leaks%20in%20Android.pdf)
+
+[reading-Systematic Testing for Resource Leaks in Android Applications](https://github.com/openthos/softeng-analysis/blob/master/reading-lists/reading-Systematic%20Testing%20for%20Resource%20Leaks%20in%20Android.md)
