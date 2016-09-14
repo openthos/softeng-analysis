@@ -14,7 +14,8 @@
 
 [A Graph-based Approach to API Usage Adaption](https://github.com/openthos/softeng-analysis/blob/master/paper-lists/oopsla10-libsync.pdf)
 
-[Testing for Poor Responsiveness in Android Applications](https://github.com/openthos/softeng-analysis/blob/master/paper-lists/yang-mobs13.pdf)
+[Testing for Poor Responsiveness in Android Applications](https://github.com/openthos/softeng-analysis/blob/master/paper-lists/Testing%20for%20Poor%20Responsiveness%20in%20Android%0AApplications.pdf)
+  [Reading Report---Testing for Poor Responsiveness in Android Applications](https://github.com/openthos/softeng-analysis/issues/1)
 
 [Systematic Testing for Resource Leaks in Android Applications](https://github.com/openthos/softeng-analysis/blob/master/paper-lists/Systematic%20Testing%20for%20Resource%20Leaks%20in%20Android.pdf)
 
