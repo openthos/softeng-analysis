@@ -35,3 +35,7 @@
 [Android用户行为重构与分析技术研究](http://www.cnki.net/KCMS/detail/detail.aspx?QueryID=23&CurRec=1&recid=&filename=1014227902.nh&dbname=CMFD201402&dbcode=CMFD&pr=&urlid=&yx=&uid=WEEvREcwSlJHSldRa1FhcTdWYVI2cGlyZmYxcHRvZDU5aVBMTjQybFlwND0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!&v=MjQ3NjdmYnVSb0Z5dm5XNzNJVkYyNkdyRzZHZGpNclpFYlBJUjhlWDFMdXhZUzdEaDFUM3FUcldNMUZyQ1VSTHk=)
 
 [基于智能手机的用户行为识别技术研究与应用](http://www.cnki.net/KCMS/detail/detail.aspx?QueryID=27&CurRec=1&recid=&filename=1015710129.nh&dbname=CMFD201601&dbcode=CMFD&pr=&urlid=&yx=&uid=WEEvREcwSlJHSldRa1FhcTdWYVI2cGlyZmYxcHRvZDU5aVBMTjQybFlwND0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!&v=MTIwNTJGeXZnVXI3S1ZGMjZHN1M1SHRET3BwRWJQSVI4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUkx5ZmJ1Um8=)
+
+[Android启动优化研究与应用](http://kreader.cnki.net/Kreader/CatalogViewPage.aspx?dbCode=CMFD&filename=1014151439.nh&tablename=CMFD2014&compose=&first=1&uid=WEEvREcwSlJHSldRa1FhdkJkdjAzb1dXWlZxaGQrTE1RVSsyaTZuWGMvaz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!)
+
+[Android启动过程优化研究](http://kreader.cnki.net/Kreader/CatalogViewPage.aspx?dbCode=CMFD&filename=1012374232.nh&tablename=CMFD2012&compose=&first=1&uid=WEEvREcwSlJHSldRa1FhdkJkdjAzb1dXWlZxaGQrTE1RVSsyaTZuWGMvaz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4ggI8Fm4gTkoUKaID8j8gFw!!)
